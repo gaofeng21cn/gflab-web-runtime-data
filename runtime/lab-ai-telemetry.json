@@ -3,15 +3,15 @@
   "items": [
     {
       "label": "Requests",
-      "value": "840,295"
+      "value": "840,578"
     },
     {
       "label": "Tokens",
-      "value": "107.93B"
+      "value": "107.97B"
     },
     {
       "label": "Cost",
-      "value": "$94.13K"
+      "value": "$94.16K"
     }
   ]
 }
