@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-20",
+  "updated": "2026-05-21",
   "items": [
     {
       "label": "Requests",
-      "value": "1,271,138"
+      "value": "1,302,696"
     },
     {
       "label": "Tokens",
-      "value": "160.10B"
+      "value": "164.34B"
     },
     {
       "label": "Cost",
-      "value": "$152.45K"
+      "value": "$156.59K"
     }
   ]
 }
